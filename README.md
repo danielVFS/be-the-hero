@@ -32,6 +32,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Be The HEro é um projeto que visa ajudar ONGs a receberem auxilios de pessoas 
 que estejam interessadas em se tornar heróis.
 
+<br>
+
+<h4 align="center">
+  💻 Versão Web
+  <br>
+  <img alt="Frontend" src="https://user-images.githubusercontent.com/54604875/77805427-9c51cf80-7060-11ea-88a1-ff3014ffe8ce.gif">
+</h4>
+
+
+<br>
+
+<h4 align="center">
+  💻 Versão Mobile
+ <br>
+ <img alt="Frontend" src="https://user-images.githubusercontent.com/54604875/77805360-72001200-7060-11ea-9bc3-dd313a195bf8.gif">
+</h4>
 
 ## 🤔 Como contribuir
 
