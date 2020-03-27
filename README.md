@@ -49,6 +49,32 @@ que estejam interessadas em se tornar heróis.
  <img alt="Frontend" src="https://user-images.githubusercontent.com/54604875/77805360-72001200-7060-11ea-9bc3-dd313a195bf8.gif">
 </h4>
 
+## Instalação
+Para iniciar o **Backend** do React utilize os comandos:
+```bash
+cd backend
+yarn install
+yarn start
+```
+Para iniciar o **Frontend** do React utilize os comandos:
+```bash
+cd frontend
+yarn install
+yarn start
+```
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:3000` contendo o Projeto.  
+
+Para testar o **Mobile** do React Native, primeiro coloque o endereço do seu servidor (ou computador) no arquivo `src/services/api.js`, e depois execute os comandos:
+```bash
+# NÃO é preciso executar a linha de baixo caso ja tenha o Expo (CLI) instalado!
+yarn global add install expo-cli
+cd mobile
+yarn install
+expo start
+```
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:19002`. Conecte seu emulador, ou teste o aplicativo por `LAN`: baixe o aplicativo *Expo* da Play Store ou App Store e em seguida escaneie o código QR.
+
+
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
