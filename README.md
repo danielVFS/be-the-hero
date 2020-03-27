@@ -10,13 +10,12 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="../mobile/assets/icons.png" width="100%">
+  <img alt="Frontend" src="../mobile/assets/icon.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
