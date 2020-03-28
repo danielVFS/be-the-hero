@@ -9,13 +9,14 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="../mobile/assets/icon.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/54604875/77811449-13935d80-7079-11ea-9123-4c8ff90a696b.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -29,8 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Be The HEro é um projeto que visa ajudar ONGs a receberem auxilios de pessoas 
-que estejam interessadas em se tornar heróis.
+O Be The Hero é um projeto que visa ajudar ONGs a encontrarem Heróis que possam ajudar com os casos das Ongs.
 
 <br>
 
@@ -49,7 +49,7 @@ que estejam interessadas em se tornar heróis.
  <img alt="Frontend" src="https://user-images.githubusercontent.com/54604875/77805360-72001200-7060-11ea-9bc3-dd313a195bf8.gif">
 </h4>
 
-## Instalação
+## 💻 Instalação
 Para iniciar o **Backend** do React utilize os comandos:
 ```bash
 cd backend
@@ -83,4 +83,8 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+---
+
+Feito por Rocketseat :wave: & Alterado por [Daniel Vitor](https://github.com/DanielVitorIFG)
 
